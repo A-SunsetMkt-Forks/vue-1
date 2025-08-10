@@ -1292,5 +1292,10 @@ The above vue.js is my vue.js based on each line of vue source code with comment
 
 
 
-
 Author: Yao Guanshou
+
+
+
+
+
+I've been unemployed recently and I'm looking for a front-end development job. I hope any friends whose companies are recruiting can contact me. Thank you. The location can be Shenzhen or remote. Front-end architecture, senior front-end development, and team leader positions are all fine. My wechat: 18529531779, helloTalk account @18529531779, email: 281113270@qq.com, thank you.
